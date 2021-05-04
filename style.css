@@ -22,8 +22,17 @@ section#featured-property p {
   width: 800px;
 }
 
-section#detail {
+
+section#details div {
+  float:left;
+  width: 25%;
+  background-color: red;
+
+}
+
+
+section#details {
   display: block;
-  /*text-align: center;*/
-  float: left;
+  width: 100%;
+  text-align: center;
 }
