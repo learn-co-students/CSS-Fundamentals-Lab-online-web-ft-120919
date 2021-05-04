@@ -3,3 +3,36 @@ body {
   height: 100%;
   margin: 0;
 }
+
+header {
+  text-align: center;
+}
+
+nav a {
+  background-color: deepskyblue;
+}
+
+section#featured-property {
+  text-align: center;
+}
+
+section#featured-property p {
+  margin-left: auto;
+  margin-right: auto;
+  width: 800px;
+}
+
+
+section#details div {
+  float:left;
+  width: 25%;
+  background-color: red;
+
+}
+
+
+section#details {
+  display: block;
+  width: 100%;
+  text-align: center;
+}
