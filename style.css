@@ -8,7 +8,22 @@ header {
   text-align: center;
 }
 
+nav a {
+  background-color: deepskyblue;
+}
+
 section#featured-property {
   text-align: center;
 }
 
+section#featured-property p {
+  margin-left: auto;
+  margin-right: auto;
+  width: 800px;
+}
+
+section#detail {
+  display: block;
+  /*text-align: center;*/
+  float: left;
+}
